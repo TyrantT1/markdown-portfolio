@@ -1,1 +1,1 @@
-https://github.com/TyrantT1
+[GitHub](https://github.com/TyrantT1)
